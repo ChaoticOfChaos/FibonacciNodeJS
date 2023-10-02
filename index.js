@@ -52,4 +52,4 @@ console.log(Fibonacci.selectSearch(1, 10));
 const full = Fibonacci.fullSequency;
 
 // Finaliza a Função
-Fibonacci.END()
+Fibonacci.END();
